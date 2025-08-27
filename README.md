@@ -30,4 +30,4 @@ O Alagaqui é uma demonstração de como a integração entre software, hardware
 
 ---
 > [!IMPORTANT]
-> ### 🚧🚨 ESTOU AGRUPANDO OS ARQUIVOS, VOLTE EM BREVE E TUDO ESTARA AQUI! 🚨🚧
+> #### 🚧 ESTOU AGRUPANDO OS ARQUIVOS, VOLTE EM BREVE E TUDO ESTARA AQUI! 🚧
