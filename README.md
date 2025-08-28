@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imags/Alagaqui-logo.jpg" alt="Logo Solar Drive"/>
+  <img src="imags/Alagaqui-logo.jpg" alt="Logo Alagaqui"/>
 </div>
 
 ---
